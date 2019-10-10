@@ -1,4 +1,4 @@
-# Team FALCON - `Resource materials`
+# Team FALCON - Resource materials
 
 |   SNO	|   TOPIC	|   LINK	|
 |:---	|:---	|:---	|
